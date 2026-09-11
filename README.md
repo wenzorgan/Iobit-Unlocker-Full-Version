@@ -233,3 +233,6 @@ This repository serves as the official landing page for IObit Unlocker. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of IObit Unlocker today!**
+
+---
+**Last updated:** 2026-09-11 22:05:17 UTC

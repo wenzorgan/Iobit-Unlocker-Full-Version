@@ -235,4 +235,4 @@ This repository serves as the official landing page for IObit Unlocker. The soft
 **Get the most recent version of IObit Unlocker today!**
 
 ---
-**Last updated:** 2026-09-19 19:02:52 UTC
+**Last updated:** 2026-09-19 21:53:26 UTC
